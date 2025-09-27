@@ -1,0 +1,3553 @@
+[
+  {
+    "id": "JOB0001",
+    "title": "Machine Learning Engineer",
+    "company": {
+      "name": "Walker Inc",
+      "logo_url": "https://example.com/logos/walkerinc.png",
+      "location": "North Loretta, India",
+      "industry": "Healthcare"
+    },
+    "description": "We are seeking a skilled Machine Learning Engineer to join our Healthcare team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Machine Learning Engineer or similar role",
+      "Strong knowledge of TensorFlow",
+      "Hands-on experience with Penetration Testing",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Node.js",
+      "Deep Learning",
+      "Java",
+      "Flutter",
+      "React.js"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1649875,
+      "max": 2553071,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-15",
+    "valid_until": "2025-10-13",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0001"
+  },
+  {
+    "id": "JOB0002",
+    "title": "Backend Developer",
+    "company": {
+      "name": "Brown, Edwards and Walker",
+      "logo_url": "https://example.com/logos/brown,edwardsandwalker.png",
+      "location": "North Anne, India",
+      "industry": "EdTech"
+    },
+    "description": "We are seeking a skilled Backend Developer to join our EdTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Backend Developer or similar role",
+      "Strong knowledge of Blockchain",
+      "Hands-on experience with Data Analysis",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "HTML",
+      "Kubernetes",
+      "Blockchain",
+      "GCP",
+      "SQL",
+      "Docker",
+      "Deep Learning"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1260802,
+      "max": 1495704,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-05",
+    "valid_until": "2025-10-21",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0002"
+  },
+  {
+    "id": "JOB0003",
+    "title": "Business Intelligence Analyst",
+    "company": {
+      "name": "Brown, Montgomery and Garrett",
+      "logo_url": "https://example.com/logos/brown,montgomeryandgarrett.png",
+      "location": "South Matthew, India",
+      "industry": "Software Development"
+    },
+    "description": "We are seeking a skilled Business Intelligence Analyst to join our Software Development team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Business Intelligence Analyst or similar role",
+      "Strong knowledge of Kubernetes",
+      "Hands-on experience with Java",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Flutter",
+      "PowerBI",
+      "Java",
+      "NLP"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 851424,
+      "max": 1533323,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-03",
+    "valid_until": "2025-10-27",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0003"
+  },
+  {
+    "id": "JOB0004",
+    "title": "Machine Learning Engineer",
+    "company": {
+      "name": "Morrison-Holland",
+      "logo_url": "https://example.com/logos/morrison-holland.png",
+      "location": "Phillipmouth, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled Machine Learning Engineer to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Machine Learning Engineer or similar role",
+      "Strong knowledge of Kubernetes",
+      "Hands-on experience with AWS",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Penetration Testing",
+      "REST API",
+      "TensorFlow",
+      "SQL",
+      "TypeScript",
+      "NLP",
+      "AWS"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 1352478,
+      "max": 1681543,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-10",
+    "valid_until": "2025-10-05",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0004"
+  },
+  {
+    "id": "JOB0005",
+    "title": "Business Intelligence Analyst",
+    "company": {
+      "name": "Wells LLC",
+      "logo_url": "https://example.com/logos/wellsllc.png",
+      "location": "South Bradyville, India",
+      "industry": "EdTech"
+    },
+    "description": "We are seeking a skilled Business Intelligence Analyst to join our EdTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Business Intelligence Analyst or similar role",
+      "Strong knowledge of Network Security",
+      "Hands-on experience with Kotlin",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Blockchain",
+      "TypeScript",
+      "CSS",
+      "Network Security"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1099868,
+      "max": 1753782,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-09",
+    "valid_until": "2025-10-05",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0005"
+  },
+  {
+    "id": "JOB0006",
+    "title": "Mobile App Developer",
+    "company": {
+      "name": "Watson, Morris and Everett",
+      "logo_url": "https://example.com/logos/watson,morrisandeverett.png",
+      "location": "Bryantview, India",
+      "industry": "IT Services"
+    },
+    "description": "We are seeking a skilled Mobile App Developer to join our IT Services team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Mobile App Developer or similar role",
+      "Strong knowledge of SQL",
+      "Hands-on experience with GraphQL",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Penetration Testing",
+      "Rust",
+      "Kotlin",
+      "Excel",
+      "Linux"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1634614,
+      "max": 1927232,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-09",
+    "valid_until": "2025-10-05",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0006"
+  },
+  {
+    "id": "JOB0007",
+    "title": "Data Scientist",
+    "company": {
+      "name": "Lewis-Griffin",
+      "logo_url": "https://example.com/logos/lewis-griffin.png",
+      "location": "New Vanessaton, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled Data Scientist to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Scientist or similar role",
+      "Strong knowledge of TypeScript",
+      "Hands-on experience with PowerBI",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "NLP",
+      "TypeScript",
+      "Kubernetes",
+      "REST API",
+      "Data Analysis",
+      "Rust",
+      "Kotlin"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1124948,
+      "max": 1496106,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-03",
+    "valid_until": "2025-10-25",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0007"
+  },
+  {
+    "id": "JOB0008",
+    "title": "QA Automation Engineer",
+    "company": {
+      "name": "Coleman, Harris and Byrd",
+      "logo_url": "https://example.com/logos/coleman,harrisandbyrd.png",
+      "location": "South Justin, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled QA Automation Engineer to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a QA Automation Engineer or similar role",
+      "Strong knowledge of CSS",
+      "Hands-on experience with Docker",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Linux",
+      "PyTorch",
+      "Deep Learning",
+      "JavaScript",
+      "REST API"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1793737,
+      "max": 2772552,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-12",
+    "valid_until": "2025-10-12",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0008"
+  },
+  {
+    "id": "JOB0009",
+    "title": "AI Researcher",
+    "company": {
+      "name": "Allen Group",
+      "logo_url": "https://example.com/logos/allengroup.png",
+      "location": "Port Kim, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled AI Researcher to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a AI Researcher or similar role",
+      "Strong knowledge of SQL",
+      "Hands-on experience with Cloud Security",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "TensorFlow",
+      "REST API",
+      "Python",
+      "NLP",
+      "PowerBI",
+      "Machine Learning"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 657439,
+      "max": 1188668,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-06",
+    "valid_until": "2025-10-03",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0009"
+  },
+  {
+    "id": "JOB0010",
+    "title": "Data Analyst",
+    "company": {
+      "name": "Collins, Roman and Carter",
+      "logo_url": "https://example.com/logos/collins,romanandcarter.png",
+      "location": "New Carloston, India",
+      "industry": "Healthcare"
+    },
+    "description": "We are seeking a skilled Data Analyst to join our Healthcare team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Analyst or similar role",
+      "Strong knowledge of Azure",
+      "Hands-on experience with Blockchain",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "CI/CD",
+      "SQL",
+      "Kotlin",
+      "Python",
+      "Swift"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1098220,
+      "max": 1928209,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-04",
+    "valid_until": "2025-10-10",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0010"
+  },
+  {
+    "id": "JOB0011",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "Fisher, Sullivan and Wood",
+      "logo_url": "https://example.com/logos/fisher,sullivanandwood.png",
+      "location": "Port Garyburgh, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled DevOps Engineer to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a DevOps Engineer or similar role",
+      "Strong knowledge of PowerBI",
+      "Hands-on experience with JavaScript",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Kubernetes",
+      "TypeScript",
+      "Tableau",
+      "Swift",
+      "SQL",
+      "REST API",
+      "Docker"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1687317,
+      "max": 2609179,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-14",
+    "valid_until": "2025-10-20",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0011"
+  },
+  {
+    "id": "JOB0012",
+    "title": "NLP Engineer",
+    "company": {
+      "name": "Smith-Powell",
+      "logo_url": "https://example.com/logos/smith-powell.png",
+      "location": "Lake Tonyamouth, India",
+      "industry": "Software Development"
+    },
+    "description": "We are seeking a skilled NLP Engineer to join our Software Development team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a NLP Engineer or similar role",
+      "Strong knowledge of Docker",
+      "Hands-on experience with GraphQL",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Data Analysis",
+      "HTML",
+      "Excel",
+      "REST API",
+      "Cloud Security"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 1040614,
+      "max": 1968751,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-16",
+    "valid_until": "2025-10-03",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0012"
+  },
+  {
+    "id": "JOB0013",
+    "title": "Business Intelligence Analyst",
+    "company": {
+      "name": "Andrews-Estrada",
+      "logo_url": "https://example.com/logos/andrews-estrada.png",
+      "location": "Kaisershire, India",
+      "industry": "EdTech"
+    },
+    "description": "We are seeking a skilled Business Intelligence Analyst to join our EdTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Business Intelligence Analyst or similar role",
+      "Strong knowledge of CI/CD",
+      "Hands-on experience with PyTorch",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Azure",
+      "React.js",
+      "JavaScript",
+      "HTML",
+      "PyTorch",
+      "Python",
+      "Docker"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1519778,
+      "max": 1758844,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-17",
+    "valid_until": "2025-10-18",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0013"
+  },
+  {
+    "id": "JOB0014",
+    "title": "Data Scientist",
+    "company": {
+      "name": "Smith, Reid and Ballard",
+      "logo_url": "https://example.com/logos/smith,reidandballard.png",
+      "location": "Hernandezport, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled Data Scientist to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Scientist or similar role",
+      "Strong knowledge of Swift",
+      "Hands-on experience with Blockchain",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Excel",
+      "Java",
+      "Blockchain",
+      "Kubernetes",
+      "Deep Learning"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1756312,
+      "max": 2517434,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-06",
+    "valid_until": "2025-10-19",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0014"
+  },
+  {
+    "id": "JOB0015",
+    "title": "Data Engineer",
+    "company": {
+      "name": "Gutierrez, Wise and Anderson",
+      "logo_url": "https://example.com/logos/gutierrez,wiseandanderson.png",
+      "location": "Tamaratown, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled Data Engineer to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Engineer or similar role",
+      "Strong knowledge of Node.js",
+      "Hands-on experience with C++",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Java",
+      "HTML",
+      "Azure",
+      "SQL",
+      "Docker",
+      "Rust",
+      "PowerBI"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1426250,
+      "max": 1975652,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-13",
+    "valid_until": "2025-10-14",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0015"
+  },
+  {
+    "id": "JOB0016",
+    "title": "Backend Developer",
+    "company": {
+      "name": "Roberson-Miller",
+      "logo_url": "https://example.com/logos/roberson-miller.png",
+      "location": "Nicholasland, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled Backend Developer to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Backend Developer or similar role",
+      "Strong knowledge of Excel",
+      "Hands-on experience with Excel",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Go",
+      "Kubernetes",
+      "Swift",
+      "CI/CD",
+      "C++"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 972722,
+      "max": 1204351,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-18",
+    "valid_until": "2025-10-21",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0016"
+  },
+  {
+    "id": "JOB0017",
+    "title": "Data Analyst",
+    "company": {
+      "name": "Hill Ltd",
+      "logo_url": "https://example.com/logos/hillltd.png",
+      "location": "North Christian, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled Data Analyst to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Analyst or similar role",
+      "Strong knowledge of Rust",
+      "Hands-on experience with Penetration Testing",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Flutter",
+      "Network Security",
+      "Docker",
+      "Rust",
+      "GraphQL"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1236343,
+      "max": 2107397,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-11",
+    "valid_until": "2025-11-02",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0017"
+  },
+  {
+    "id": "JOB0018",
+    "title": "Blockchain Developer",
+    "company": {
+      "name": "Lane and Sons",
+      "logo_url": "https://example.com/logos/laneandsons.png",
+      "location": "Joannemouth, India",
+      "industry": "Healthcare"
+    },
+    "description": "We are seeking a skilled Blockchain Developer to join our Healthcare team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Blockchain Developer or similar role",
+      "Strong knowledge of GCP",
+      "Hands-on experience with Tableau",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "SQL",
+      "Machine Learning",
+      "TensorFlow",
+      "Data Analysis",
+      "Swift",
+      "PowerBI"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 1414955,
+      "max": 2269200,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-13",
+    "valid_until": "2025-10-23",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0018"
+  },
+  {
+    "id": "JOB0019",
+    "title": "Business Intelligence Analyst",
+    "company": {
+      "name": "Johnson and Sons",
+      "logo_url": "https://example.com/logos/johnsonandsons.png",
+      "location": "North Tanya, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled Business Intelligence Analyst to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Business Intelligence Analyst or similar role",
+      "Strong knowledge of Data Analysis",
+      "Hands-on experience with Docker",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "REST API",
+      "AWS",
+      "Data Analysis",
+      "TensorFlow",
+      "Docker",
+      "Kotlin"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 1158827,
+      "max": 1987833,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-15",
+    "valid_until": "2025-10-18",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0019"
+  },
+  {
+    "id": "JOB0020",
+    "title": "AR/VR Developer",
+    "company": {
+      "name": "Ross, Dunlap and Frost",
+      "logo_url": "https://example.com/logos/ross,dunlapandfrost.png",
+      "location": "Scottland, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled AR/VR Developer to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a AR/VR Developer or similar role",
+      "Strong knowledge of SQL",
+      "Hands-on experience with Blockchain",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Rust",
+      "Excel",
+      "C++",
+      "Java",
+      "GCP",
+      "REST API",
+      "Go"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 633907,
+      "max": 1141668,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-08",
+    "valid_until": "2025-10-25",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0020"
+  },
+  {
+    "id": "JOB0021",
+    "title": "Mobile App Developer",
+    "company": {
+      "name": "Young, Simmons and Castro",
+      "logo_url": "https://example.com/logos/young,simmonsandcastro.png",
+      "location": "Port Robert, India",
+      "industry": "Cybersecurity"
+    },
+    "description": "We are seeking a skilled Mobile App Developer to join our Cybersecurity team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Mobile App Developer or similar role",
+      "Strong knowledge of Deep Learning",
+      "Hands-on experience with Python",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Tableau",
+      "Excel",
+      "Node.js",
+      "Deep Learning"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1409525,
+      "max": 1849960,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-15",
+    "valid_until": "2025-10-14",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0021"
+  },
+  {
+    "id": "JOB0022",
+    "title": "Cybersecurity Specialist",
+    "company": {
+      "name": "Ramsey-Johnson",
+      "logo_url": "https://example.com/logos/ramsey-johnson.png",
+      "location": "Wongville, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled Cybersecurity Specialist to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Cybersecurity Specialist or similar role",
+      "Strong knowledge of Linux",
+      "Hands-on experience with Blockchain",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Python",
+      "React.js",
+      "AWS",
+      "Go",
+      "TensorFlow",
+      "Cloud Security",
+      "Linux"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 624844,
+      "max": 994196,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-05",
+    "valid_until": "2025-10-18",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0022"
+  },
+  {
+    "id": "JOB0023",
+    "title": "Data Scientist",
+    "company": {
+      "name": "Campbell-Davis",
+      "logo_url": "https://example.com/logos/campbell-davis.png",
+      "location": "Leefurt, India",
+      "industry": "Cybersecurity"
+    },
+    "description": "We are seeking a skilled Data Scientist to join our Cybersecurity team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Scientist or similar role",
+      "Strong knowledge of Kotlin",
+      "Hands-on experience with Flutter",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Python",
+      "Swift",
+      "HTML",
+      "Tableau"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1160229,
+      "max": 1612750,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-18",
+    "valid_until": "2025-10-26",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0023"
+  },
+  {
+    "id": "JOB0024",
+    "title": "Data Scientist",
+    "company": {
+      "name": "Richardson and Sons",
+      "logo_url": "https://example.com/logos/richardsonandsons.png",
+      "location": "West James, India",
+      "industry": "IT Services"
+    },
+    "description": "We are seeking a skilled Data Scientist to join our IT Services team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Scientist or similar role",
+      "Strong knowledge of PyTorch",
+      "Hands-on experience with Kubernetes",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "TypeScript",
+      "AWS",
+      "Penetration Testing",
+      "Node.js"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1704259,
+      "max": 2695873,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-12",
+    "valid_until": "2025-10-11",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0024"
+  },
+  {
+    "id": "JOB0025",
+    "title": "Blockchain Developer",
+    "company": {
+      "name": "Mckee PLC",
+      "logo_url": "https://example.com/logos/mckeeplc.png",
+      "location": "Stewartview, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled Blockchain Developer to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Blockchain Developer or similar role",
+      "Strong knowledge of Blockchain",
+      "Hands-on experience with NLP",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "NLP",
+      "Kubernetes",
+      "Rust",
+      "SQL",
+      "GCP"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1657175,
+      "max": 2529378,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-09",
+    "valid_until": "2025-10-17",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0025"
+  },
+  {
+    "id": "JOB0026",
+    "title": "AR/VR Developer",
+    "company": {
+      "name": "Clark-Mann",
+      "logo_url": "https://example.com/logos/clark-mann.png",
+      "location": "Vanessaton, India",
+      "industry": "EdTech"
+    },
+    "description": "We are seeking a skilled AR/VR Developer to join our EdTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a AR/VR Developer or similar role",
+      "Strong knowledge of Linux",
+      "Hands-on experience with HTML",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Machine Learning",
+      "SQL",
+      "JavaScript",
+      "Network Security",
+      "Azure",
+      "Java",
+      "C++"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1763933,
+      "max": 1993083,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-07",
+    "valid_until": "2025-10-28",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0026"
+  },
+  {
+    "id": "JOB0027",
+    "title": "Business Intelligence Analyst",
+    "company": {
+      "name": "Cannon, Gonzalez and Werner",
+      "logo_url": "https://example.com/logos/cannon,gonzalezandwerner.png",
+      "location": "Gonzalesport, India",
+      "industry": "EdTech"
+    },
+    "description": "We are seeking a skilled Business Intelligence Analyst to join our EdTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Business Intelligence Analyst or similar role",
+      "Strong knowledge of Rust",
+      "Hands-on experience with GraphQL",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Kotlin",
+      "REST API",
+      "PowerBI",
+      "Data Analysis"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1656243,
+      "max": 1861497,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-11",
+    "valid_until": "2025-10-13",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0027"
+  },
+  {
+    "id": "JOB0028",
+    "title": "Data Analyst",
+    "company": {
+      "name": "Smith Inc",
+      "logo_url": "https://example.com/logos/smithinc.png",
+      "location": "Hillburgh, India",
+      "industry": "Software Development"
+    },
+    "description": "We are seeking a skilled Data Analyst to join our Software Development team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Analyst or similar role",
+      "Strong knowledge of Python",
+      "Hands-on experience with Docker",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Kotlin",
+      "TypeScript",
+      "Docker",
+      "JavaScript",
+      "Penetration Testing",
+      "Data Analysis",
+      "AWS"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 1147916,
+      "max": 1531398,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-13",
+    "valid_until": "2025-10-24",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0028"
+  },
+  {
+    "id": "JOB0029",
+    "title": "Data Analyst",
+    "company": {
+      "name": "Smith-Hall",
+      "logo_url": "https://example.com/logos/smith-hall.png",
+      "location": "North Kathrynland, India",
+      "industry": "Software Development"
+    },
+    "description": "We are seeking a skilled Data Analyst to join our Software Development team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Analyst or similar role",
+      "Strong knowledge of PyTorch",
+      "Hands-on experience with Docker",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Rust",
+      "Java",
+      "Azure",
+      "Node.js",
+      "SQL"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1669178,
+      "max": 2111839,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-10",
+    "valid_until": "2025-10-03",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0029"
+  },
+  {
+    "id": "JOB0030",
+    "title": "Cybersecurity Specialist",
+    "company": {
+      "name": "Mclaughlin, Taylor and Hernandez",
+      "logo_url": "https://example.com/logos/mclaughlin,taylorandhernandez.png",
+      "location": "Jessicaberg, India",
+      "industry": "IT Services"
+    },
+    "description": "We are seeking a skilled Cybersecurity Specialist to join our IT Services team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Cybersecurity Specialist or similar role",
+      "Strong knowledge of Linux",
+      "Hands-on experience with HTML",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Tableau",
+      "C++",
+      "Kotlin",
+      "REST API",
+      "Penetration Testing"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1346073,
+      "max": 1559864,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-16",
+    "valid_until": "2025-10-15",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0030"
+  },
+  {
+    "id": "JOB0031",
+    "title": "Site Reliability Engineer (SRE)",
+    "company": {
+      "name": "Smith PLC",
+      "logo_url": "https://example.com/logos/smithplc.png",
+      "location": "Lake Erin, India",
+      "industry": "EdTech"
+    },
+    "description": "We are seeking a skilled Site Reliability Engineer (SRE) to join our EdTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Site Reliability Engineer (SRE) or similar role",
+      "Strong knowledge of Network Security",
+      "Hands-on experience with Azure",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "NLP",
+      "Swift",
+      "AWS",
+      "Blockchain",
+      "REST API",
+      "GCP",
+      "Linux"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 906323,
+      "max": 1287201,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-12",
+    "valid_until": "2025-10-17",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0031"
+  },
+  {
+    "id": "JOB0032",
+    "title": "NLP Engineer",
+    "company": {
+      "name": "Scott Inc",
+      "logo_url": "https://example.com/logos/scottinc.png",
+      "location": "South Lisafurt, India",
+      "industry": "Healthcare"
+    },
+    "description": "We are seeking a skilled NLP Engineer to join our Healthcare team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a NLP Engineer or similar role",
+      "Strong knowledge of PyTorch",
+      "Hands-on experience with GraphQL",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "NLP",
+      "Azure",
+      "Python",
+      "Penetration Testing",
+      "Cloud Security"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 1584077,
+      "max": 2383929,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-13",
+    "valid_until": "2025-10-29",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0032"
+  },
+  {
+    "id": "JOB0033",
+    "title": "AI Researcher",
+    "company": {
+      "name": "Trevino, Henry and Williams",
+      "logo_url": "https://example.com/logos/trevino,henryandwilliams.png",
+      "location": "Natashafurt, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled AI Researcher to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a AI Researcher or similar role",
+      "Strong knowledge of Rust",
+      "Hands-on experience with Swift",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Network Security",
+      "Kubernetes",
+      "Rust",
+      "Java",
+      "AWS",
+      "TypeScript"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 986685,
+      "max": 1351585,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-18",
+    "valid_until": "2025-10-15",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0033"
+  },
+  {
+    "id": "JOB0034",
+    "title": "Cloud Architect",
+    "company": {
+      "name": "Wilkerson LLC",
+      "logo_url": "https://example.com/logos/wilkersonllc.png",
+      "location": "Galvanfurt, India",
+      "industry": "IT Services"
+    },
+    "description": "We are seeking a skilled Cloud Architect to join our IT Services team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Cloud Architect or similar role",
+      "Strong knowledge of Data Analysis",
+      "Hands-on experience with Linux",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Blockchain",
+      "Excel",
+      "Flutter",
+      "CSS"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1576133,
+      "max": 1892855,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-08",
+    "valid_until": "2025-10-20",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0034"
+  },
+  {
+    "id": "JOB0035",
+    "title": "Full Stack Engineer",
+    "company": {
+      "name": "Baker and Sons",
+      "logo_url": "https://example.com/logos/bakerandsons.png",
+      "location": "Martinberg, India",
+      "industry": "Cybersecurity"
+    },
+    "description": "We are seeking a skilled Full Stack Engineer to join our Cybersecurity team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Full Stack Engineer or similar role",
+      "Strong knowledge of GraphQL",
+      "Hands-on experience with TensorFlow",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Penetration Testing",
+      "Go",
+      "PowerBI",
+      "Blockchain",
+      "Deep Learning",
+      "Kubernetes"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1549192,
+      "max": 1955552,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-14",
+    "valid_until": "2025-10-17",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0035"
+  },
+  {
+    "id": "JOB0036",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "Wright-Everett",
+      "logo_url": "https://example.com/logos/wright-everett.png",
+      "location": "Kingborough, India",
+      "industry": "Healthcare"
+    },
+    "description": "We are seeking a skilled DevOps Engineer to join our Healthcare team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a DevOps Engineer or similar role",
+      "Strong knowledge of JavaScript",
+      "Hands-on experience with React.js",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "CI/CD",
+      "React.js",
+      "Machine Learning",
+      "Blockchain",
+      "AWS",
+      "TypeScript"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1642443,
+      "max": 2564140,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-15",
+    "valid_until": "2025-10-15",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0036"
+  },
+  {
+    "id": "JOB0037",
+    "title": "Site Reliability Engineer (SRE)",
+    "company": {
+      "name": "Everett LLC",
+      "logo_url": "https://example.com/logos/everettllc.png",
+      "location": "West Davidberg, India",
+      "industry": "Cybersecurity"
+    },
+    "description": "We are seeking a skilled Site Reliability Engineer (SRE) to join our Cybersecurity team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Site Reliability Engineer (SRE) or similar role",
+      "Strong knowledge of TensorFlow",
+      "Hands-on experience with TypeScript",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Blockchain",
+      "Node.js",
+      "SQL",
+      "PowerBI",
+      "HTML",
+      "REST API"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1453512,
+      "max": 1701079,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-05",
+    "valid_until": "2025-10-20",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0037"
+  },
+  {
+    "id": "JOB0038",
+    "title": "Product Manager - Tech",
+    "company": {
+      "name": "Lewis, Stephens and Contreras",
+      "logo_url": "https://example.com/logos/lewis,stephensandcontreras.png",
+      "location": "South Eddie, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled Product Manager - Tech to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Product Manager - Tech or similar role",
+      "Strong knowledge of Network Security",
+      "Hands-on experience with React.js",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Kotlin",
+      "Flutter",
+      "Kubernetes",
+      "Rust"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1536733,
+      "max": 2450307,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-17",
+    "valid_until": "2025-10-14",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0038"
+  },
+  {
+    "id": "JOB0039",
+    "title": "Business Intelligence Analyst",
+    "company": {
+      "name": "Love Group",
+      "logo_url": "https://example.com/logos/lovegroup.png",
+      "location": "North Phillipport, India",
+      "industry": "Software Development"
+    },
+    "description": "We are seeking a skilled Business Intelligence Analyst to join our Software Development team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Business Intelligence Analyst or similar role",
+      "Strong knowledge of Excel",
+      "Hands-on experience with Tableau",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "C++",
+      "GCP",
+      "REST API",
+      "Deep Learning",
+      "AWS",
+      "JavaScript",
+      "Docker"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1053320,
+      "max": 1421532,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-16",
+    "valid_until": "2025-10-10",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0039"
+  },
+  {
+    "id": "JOB0040",
+    "title": "NLP Engineer",
+    "company": {
+      "name": "Martinez Group",
+      "logo_url": "https://example.com/logos/martinezgroup.png",
+      "location": "North Wayneport, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled NLP Engineer to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a NLP Engineer or similar role",
+      "Strong knowledge of Tableau",
+      "Hands-on experience with Docker",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Blockchain",
+      "TensorFlow",
+      "Rust",
+      "Penetration Testing",
+      "Go",
+      "Swift",
+      "Kubernetes"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1016539,
+      "max": 1825751,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-07",
+    "valid_until": "2025-10-15",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0040"
+  },
+  {
+    "id": "JOB0041",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "Jones LLC",
+      "logo_url": "https://example.com/logos/jonesllc.png",
+      "location": "West Kaitlynchester, India",
+      "industry": "Cybersecurity"
+    },
+    "description": "We are seeking a skilled DevOps Engineer to join our Cybersecurity team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a DevOps Engineer or similar role",
+      "Strong knowledge of SQL",
+      "Hands-on experience with SQL",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Go",
+      "Network Security",
+      "PowerBI",
+      "React.js",
+      "GraphQL"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1072348,
+      "max": 1512956,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-12",
+    "valid_until": "2025-10-09",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0041"
+  },
+  {
+    "id": "JOB0042",
+    "title": "AR/VR Developer",
+    "company": {
+      "name": "Barry and Sons",
+      "logo_url": "https://example.com/logos/barryandsons.png",
+      "location": "Donaldsonhaven, India",
+      "industry": "IT Services"
+    },
+    "description": "We are seeking a skilled AR/VR Developer to join our IT Services team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a AR/VR Developer or similar role",
+      "Strong knowledge of SQL",
+      "Hands-on experience with Excel",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Linux",
+      "GraphQL",
+      "Python",
+      "Blockchain",
+      "PowerBI",
+      "Java",
+      "Penetration Testing"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1000072,
+      "max": 1479077,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-18",
+    "valid_until": "2025-10-13",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0042"
+  },
+  {
+    "id": "JOB0043",
+    "title": "AI Researcher",
+    "company": {
+      "name": "Stewart-Wilcox",
+      "logo_url": "https://example.com/logos/stewart-wilcox.png",
+      "location": "Greenfurt, India",
+      "industry": "EdTech"
+    },
+    "description": "We are seeking a skilled AI Researcher to join our EdTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a AI Researcher or similar role",
+      "Strong knowledge of Blockchain",
+      "Hands-on experience with Blockchain",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "REST API",
+      "Cloud Security",
+      "JavaScript",
+      "Machine Learning"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1738844,
+      "max": 2494038,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-18",
+    "valid_until": "2025-10-17",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0043"
+  },
+  {
+    "id": "JOB0044",
+    "title": "Data Scientist",
+    "company": {
+      "name": "Adams, Hicks and Henry",
+      "logo_url": "https://example.com/logos/adams,hicksandhenry.png",
+      "location": "Knightland, India",
+      "industry": "EdTech"
+    },
+    "description": "We are seeking a skilled Data Scientist to join our EdTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Scientist or similar role",
+      "Strong knowledge of C++",
+      "Hands-on experience with GraphQL",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "REST API",
+      "Kubernetes",
+      "Java",
+      "CI/CD",
+      "JavaScript",
+      "Rust"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 1788571,
+      "max": 2275995,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-18",
+    "valid_until": "2025-10-13",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0044"
+  },
+  {
+    "id": "JOB0045",
+    "title": "Product Manager - Tech",
+    "company": {
+      "name": "Walker Ltd",
+      "logo_url": "https://example.com/logos/walkerltd.png",
+      "location": "Wrightfort, India",
+      "industry": "IT Services"
+    },
+    "description": "We are seeking a skilled Product Manager - Tech to join our IT Services team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Product Manager - Tech or similar role",
+      "Strong knowledge of Excel",
+      "Hands-on experience with Tableau",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "SQL",
+      "CI/CD",
+      "Rust",
+      "Deep Learning",
+      "AWS",
+      "Flutter",
+      "HTML"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 1014636,
+      "max": 1396564,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-08",
+    "valid_until": "2025-10-27",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0045"
+  },
+  {
+    "id": "JOB0046",
+    "title": "Computer Vision Engineer",
+    "company": {
+      "name": "Long, Bates and Perry",
+      "logo_url": "https://example.com/logos/long,batesandperry.png",
+      "location": "Michaelbury, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled Computer Vision Engineer to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Computer Vision Engineer or similar role",
+      "Strong knowledge of Machine Learning",
+      "Hands-on experience with Blockchain",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "SQL",
+      "CI/CD",
+      "Excel",
+      "Penetration Testing",
+      "Cloud Security",
+      "AWS",
+      "Linux"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 673364,
+      "max": 1461609,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-17",
+    "valid_until": "2025-10-28",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0046"
+  },
+  {
+    "id": "JOB0047",
+    "title": "NLP Engineer",
+    "company": {
+      "name": "Kennedy, Campbell and Reeves",
+      "logo_url": "https://example.com/logos/kennedy,campbellandreeves.png",
+      "location": "Port Kelli, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled NLP Engineer to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a NLP Engineer or similar role",
+      "Strong knowledge of Go",
+      "Hands-on experience with Deep Learning",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Java",
+      "Blockchain",
+      "HTML",
+      "Node.js",
+      "PowerBI",
+      "PyTorch"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 978789,
+      "max": 1584665,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-13",
+    "valid_until": "2025-10-08",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0047"
+  },
+  {
+    "id": "JOB0048",
+    "title": "Mobile App Developer",
+    "company": {
+      "name": "Mccoy-Vasquez",
+      "logo_url": "https://example.com/logos/mccoy-vasquez.png",
+      "location": "Sandraview, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled Mobile App Developer to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Mobile App Developer or similar role",
+      "Strong knowledge of Kotlin",
+      "Hands-on experience with Azure",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Kotlin",
+      "CSS",
+      "Kubernetes",
+      "Java"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 755075,
+      "max": 1145665,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-08",
+    "valid_until": "2025-10-23",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0048"
+  },
+  {
+    "id": "JOB0049",
+    "title": "Business Intelligence Analyst",
+    "company": {
+      "name": "Love and Sons",
+      "logo_url": "https://example.com/logos/loveandsons.png",
+      "location": "Port Paulmouth, India",
+      "industry": "EdTech"
+    },
+    "description": "We are seeking a skilled Business Intelligence Analyst to join our EdTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Business Intelligence Analyst or similar role",
+      "Strong knowledge of CSS",
+      "Hands-on experience with JavaScript",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Swift",
+      "SQL",
+      "PyTorch",
+      "Linux",
+      "Excel",
+      "CSS"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 635696,
+      "max": 1492526,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-05",
+    "valid_until": "2025-10-06",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0049"
+  },
+  {
+    "id": "JOB0050",
+    "title": "AR/VR Developer",
+    "company": {
+      "name": "Wilson, Harris and Taylor",
+      "logo_url": "https://example.com/logos/wilson,harrisandtaylor.png",
+      "location": "Port Laurie, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled AR/VR Developer to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a AR/VR Developer or similar role",
+      "Strong knowledge of TypeScript",
+      "Hands-on experience with Network Security",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Data Analysis",
+      "NLP",
+      "Node.js",
+      "Tableau",
+      "Swift"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 834472,
+      "max": 1105017,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-17",
+    "valid_until": "2025-10-26",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0050"
+  },
+  {
+    "id": "JOB0051",
+    "title": "AI Researcher",
+    "company": {
+      "name": "Yoder and Sons",
+      "logo_url": "https://example.com/logos/yoderandsons.png",
+      "location": "South David, India",
+      "industry": "Healthcare"
+    },
+    "description": "We are seeking a skilled AI Researcher to join our Healthcare team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a AI Researcher or similar role",
+      "Strong knowledge of Java",
+      "Hands-on experience with GCP",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Linux",
+      "AWS",
+      "Rust",
+      "Node.js",
+      "Go",
+      "HTML"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 834009,
+      "max": 1546966,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-06",
+    "valid_until": "2025-10-20",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0051"
+  },
+  {
+    "id": "JOB0052",
+    "title": "Product Manager - Tech",
+    "company": {
+      "name": "Guerrero-Little",
+      "logo_url": "https://example.com/logos/guerrero-little.png",
+      "location": "North Lisa, India",
+      "industry": "IT Services"
+    },
+    "description": "We are seeking a skilled Product Manager - Tech to join our IT Services team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Product Manager - Tech or similar role",
+      "Strong knowledge of Penetration Testing",
+      "Hands-on experience with PowerBI",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Penetration Testing",
+      "Python",
+      "Flutter",
+      "Machine Learning"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 1322132,
+      "max": 1655485,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-18",
+    "valid_until": "2025-11-02",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0052"
+  },
+  {
+    "id": "JOB0053",
+    "title": "Computer Vision Engineer",
+    "company": {
+      "name": "Bailey-Hughes",
+      "logo_url": "https://example.com/logos/bailey-hughes.png",
+      "location": "Baileymouth, India",
+      "industry": "Software Development"
+    },
+    "description": "We are seeking a skilled Computer Vision Engineer to join our Software Development team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Computer Vision Engineer or similar role",
+      "Strong knowledge of CSS",
+      "Hands-on experience with HTML",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Java",
+      "CI/CD",
+      "Rust",
+      "GraphQL",
+      "Network Security"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1439740,
+      "max": 2013091,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-16",
+    "valid_until": "2025-10-23",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0053"
+  },
+  {
+    "id": "JOB0054",
+    "title": "QA Automation Engineer",
+    "company": {
+      "name": "Perkins-Lynn",
+      "logo_url": "https://example.com/logos/perkins-lynn.png",
+      "location": "New Jasonview, India",
+      "industry": "Cybersecurity"
+    },
+    "description": "We are seeking a skilled QA Automation Engineer to join our Cybersecurity team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a QA Automation Engineer or similar role",
+      "Strong knowledge of Blockchain",
+      "Hands-on experience with Blockchain",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "JavaScript",
+      "AWS",
+      "Go",
+      "Python"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 1730638,
+      "max": 2053686,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-06",
+    "valid_until": "2025-10-04",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0054"
+  },
+  {
+    "id": "JOB0055",
+    "title": "Cybersecurity Specialist",
+    "company": {
+      "name": "Salinas Inc",
+      "logo_url": "https://example.com/logos/salinasinc.png",
+      "location": "Ambermouth, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled Cybersecurity Specialist to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Cybersecurity Specialist or similar role",
+      "Strong knowledge of NLP",
+      "Hands-on experience with Docker",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Rust",
+      "REST API",
+      "Excel",
+      "Java",
+      "Docker",
+      "JavaScript",
+      "React.js"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 1765904,
+      "max": 2105163,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-17",
+    "valid_until": "2025-10-03",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0055"
+  },
+  {
+    "id": "JOB0056",
+    "title": "AI Researcher",
+    "company": {
+      "name": "Kerr, Garcia and Bell",
+      "logo_url": "https://example.com/logos/kerr,garciaandbell.png",
+      "location": "South Amyberg, India",
+      "industry": "IT Services"
+    },
+    "description": "We are seeking a skilled AI Researcher to join our IT Services team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a AI Researcher or similar role",
+      "Strong knowledge of Machine Learning",
+      "Hands-on experience with Kotlin",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Azure",
+      "Go",
+      "Python",
+      "Deep Learning"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1036582,
+      "max": 1332328,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-04",
+    "valid_until": "2025-10-27",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0056"
+  },
+  {
+    "id": "JOB0057",
+    "title": "Cloud Architect",
+    "company": {
+      "name": "Mitchell, Fuentes and Weber",
+      "logo_url": "https://example.com/logos/mitchell,fuentesandweber.png",
+      "location": "Lake Paulshire, India",
+      "industry": "IT Services"
+    },
+    "description": "We are seeking a skilled Cloud Architect to join our IT Services team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Cloud Architect or similar role",
+      "Strong knowledge of TensorFlow",
+      "Hands-on experience with Data Analysis",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Machine Learning",
+      "C++",
+      "Kubernetes",
+      "Linux",
+      "Network Security",
+      "JavaScript",
+      "Penetration Testing"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 745405,
+      "max": 1185655,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-03",
+    "valid_until": "2025-10-08",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0057"
+  },
+  {
+    "id": "JOB0058",
+    "title": "AR/VR Developer",
+    "company": {
+      "name": "Kelley-Turner",
+      "logo_url": "https://example.com/logos/kelley-turner.png",
+      "location": "Alyssaton, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled AR/VR Developer to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a AR/VR Developer or similar role",
+      "Strong knowledge of Kotlin",
+      "Hands-on experience with Excel",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Blockchain",
+      "TensorFlow",
+      "SQL",
+      "Cloud Security"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1069784,
+      "max": 1951235,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-13",
+    "valid_until": "2025-10-13",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0058"
+  },
+  {
+    "id": "JOB0059",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "Allen Ltd",
+      "logo_url": "https://example.com/logos/allenltd.png",
+      "location": "New Dianehaven, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled DevOps Engineer to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a DevOps Engineer or similar role",
+      "Strong knowledge of NLP",
+      "Hands-on experience with C++",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Deep Learning",
+      "TypeScript",
+      "PowerBI",
+      "Machine Learning",
+      "Python"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1028111,
+      "max": 1847086,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-17",
+    "valid_until": "2025-10-13",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0059"
+  },
+  {
+    "id": "JOB0060",
+    "title": "Data Analyst",
+    "company": {
+      "name": "Jensen-Jackson",
+      "logo_url": "https://example.com/logos/jensen-jackson.png",
+      "location": "South Andreaborough, India",
+      "industry": "EdTech"
+    },
+    "description": "We are seeking a skilled Data Analyst to join our EdTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Analyst or similar role",
+      "Strong knowledge of CSS",
+      "Hands-on experience with Data Analysis",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "NLP",
+      "Linux",
+      "PowerBI",
+      "Kotlin",
+      "Go"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 934344,
+      "max": 1239448,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-16",
+    "valid_until": "2025-10-12",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0060"
+  },
+  {
+    "id": "JOB0061",
+    "title": "Cloud Architect",
+    "company": {
+      "name": "Torres PLC",
+      "logo_url": "https://example.com/logos/torresplc.png",
+      "location": "North Jessicaport, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled Cloud Architect to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Cloud Architect or similar role",
+      "Strong knowledge of Penetration Testing",
+      "Hands-on experience with PowerBI",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "AWS",
+      "Machine Learning",
+      "Flutter",
+      "REST API",
+      "Kotlin",
+      "Tableau"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 832095,
+      "max": 1190690,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-12",
+    "valid_until": "2025-11-02",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0061"
+  },
+  {
+    "id": "JOB0062",
+    "title": "Cybersecurity Specialist",
+    "company": {
+      "name": "Williams, Todd and Hall",
+      "logo_url": "https://example.com/logos/williams,toddandhall.png",
+      "location": "North Kevin, India",
+      "industry": "Software Development"
+    },
+    "description": "We are seeking a skilled Cybersecurity Specialist to join our Software Development team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Cybersecurity Specialist or similar role",
+      "Strong knowledge of REST API",
+      "Hands-on experience with Kubernetes",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Flutter",
+      "Penetration Testing",
+      "TensorFlow",
+      "CI/CD"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 983593,
+      "max": 1267223,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-15",
+    "valid_until": "2025-10-05",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0062"
+  },
+  {
+    "id": "JOB0063",
+    "title": "Machine Learning Engineer",
+    "company": {
+      "name": "Anderson PLC",
+      "logo_url": "https://example.com/logos/andersonplc.png",
+      "location": "Christineview, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled Machine Learning Engineer to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Machine Learning Engineer or similar role",
+      "Strong knowledge of TensorFlow",
+      "Hands-on experience with GraphQL",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Kubernetes",
+      "TypeScript",
+      "Penetration Testing",
+      "Excel",
+      "Data Analysis",
+      "Python"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 711003,
+      "max": 1681352,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-18",
+    "valid_until": "2025-10-27",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0063"
+  },
+  {
+    "id": "JOB0064",
+    "title": "Mobile App Developer",
+    "company": {
+      "name": "Bishop, Boyd and Adams",
+      "logo_url": "https://example.com/logos/bishop,boydandadams.png",
+      "location": "Lake Brian, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled Mobile App Developer to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Mobile App Developer or similar role",
+      "Strong knowledge of SQL",
+      "Hands-on experience with Blockchain",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Linux",
+      "Flutter",
+      "Java",
+      "Deep Learning",
+      "CSS"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1004167,
+      "max": 1549459,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-11",
+    "valid_until": "2025-10-09",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0064"
+  },
+  {
+    "id": "JOB0065",
+    "title": "Data Analyst",
+    "company": {
+      "name": "Chen-Johnson",
+      "logo_url": "https://example.com/logos/chen-johnson.png",
+      "location": "Brookeberg, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled Data Analyst to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Analyst or similar role",
+      "Strong knowledge of Rust",
+      "Hands-on experience with GCP",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Cloud Security",
+      "Python",
+      "SQL",
+      "Kotlin",
+      "Excel",
+      "TypeScript"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1673371,
+      "max": 2523010,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-06",
+    "valid_until": "2025-11-01",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0065"
+  },
+  {
+    "id": "JOB0066",
+    "title": "Cybersecurity Specialist",
+    "company": {
+      "name": "Smith-Anderson",
+      "logo_url": "https://example.com/logos/smith-anderson.png",
+      "location": "Nguyenmouth, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled Cybersecurity Specialist to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Cybersecurity Specialist or similar role",
+      "Strong knowledge of PowerBI",
+      "Hands-on experience with GraphQL",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Penetration Testing",
+      "Kubernetes",
+      "Swift",
+      "CSS",
+      "Machine Learning",
+      "SQL"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 663696,
+      "max": 1415463,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-11",
+    "valid_until": "2025-10-13",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0066"
+  },
+  {
+    "id": "JOB0067",
+    "title": "NLP Engineer",
+    "company": {
+      "name": "Davis-Carter",
+      "logo_url": "https://example.com/logos/davis-carter.png",
+      "location": "Port Thomashaven, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled NLP Engineer to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a NLP Engineer or similar role",
+      "Strong knowledge of CSS",
+      "Hands-on experience with AWS",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "JavaScript",
+      "TensorFlow",
+      "Python",
+      "Go",
+      "Azure",
+      "Deep Learning",
+      "NLP"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 907166,
+      "max": 1352556,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-03",
+    "valid_until": "2025-10-08",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0067"
+  },
+  {
+    "id": "JOB0068",
+    "title": "Full Stack Engineer",
+    "company": {
+      "name": "Ward-Buchanan",
+      "logo_url": "https://example.com/logos/ward-buchanan.png",
+      "location": "Taylorville, India",
+      "industry": "Cybersecurity"
+    },
+    "description": "We are seeking a skilled Full Stack Engineer to join our Cybersecurity team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Full Stack Engineer or similar role",
+      "Strong knowledge of AWS",
+      "Hands-on experience with Kubernetes",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Rust",
+      "Data Analysis",
+      "Kubernetes",
+      "Deep Learning",
+      "Network Security"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1193733,
+      "max": 1408086,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-03",
+    "valid_until": "2025-10-21",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0068"
+  },
+  {
+    "id": "JOB0069",
+    "title": "AI Researcher",
+    "company": {
+      "name": "Bailey-Barker",
+      "logo_url": "https://example.com/logos/bailey-barker.png",
+      "location": "Wendyfurt, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled AI Researcher to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a AI Researcher or similar role",
+      "Strong knowledge of Python",
+      "Hands-on experience with Network Security",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "PyTorch",
+      "AWS",
+      "JavaScript",
+      "Rust",
+      "TypeScript",
+      "CI/CD",
+      "PowerBI"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1206829,
+      "max": 1558807,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-16",
+    "valid_until": "2025-10-21",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0069"
+  },
+  {
+    "id": "JOB0070",
+    "title": "Data Scientist",
+    "company": {
+      "name": "Bowers, Lin and Mckinney",
+      "logo_url": "https://example.com/logos/bowers,linandmckinney.png",
+      "location": "Hurleyberg, India",
+      "industry": "IT Services"
+    },
+    "description": "We are seeking a skilled Data Scientist to join our IT Services team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Scientist or similar role",
+      "Strong knowledge of TypeScript",
+      "Hands-on experience with Go",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "PowerBI",
+      "React.js",
+      "Deep Learning",
+      "Blockchain",
+      "CSS",
+      "CI/CD",
+      "Excel"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1119958,
+      "max": 1910676,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-03",
+    "valid_until": "2025-10-21",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0070"
+  },
+  {
+    "id": "JOB0071",
+    "title": "Business Intelligence Analyst",
+    "company": {
+      "name": "Lee, Moore and Glover",
+      "logo_url": "https://example.com/logos/lee,mooreandglover.png",
+      "location": "Nicolechester, India",
+      "industry": "Healthcare"
+    },
+    "description": "We are seeking a skilled Business Intelligence Analyst to join our Healthcare team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Business Intelligence Analyst or similar role",
+      "Strong knowledge of Kubernetes",
+      "Hands-on experience with Azure",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "TypeScript",
+      "C++",
+      "Rust",
+      "CSS"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1386179,
+      "max": 2131095,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-09",
+    "valid_until": "2025-10-08",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0071"
+  },
+  {
+    "id": "JOB0072",
+    "title": "Data Engineer",
+    "company": {
+      "name": "Murray LLC",
+      "logo_url": "https://example.com/logos/murrayllc.png",
+      "location": "Charlesmouth, India",
+      "industry": "EdTech"
+    },
+    "description": "We are seeking a skilled Data Engineer to join our EdTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Engineer or similar role",
+      "Strong knowledge of AWS",
+      "Hands-on experience with PowerBI",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Go",
+      "Docker",
+      "Penetration Testing",
+      "JavaScript",
+      "CI/CD",
+      "Java"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 789264,
+      "max": 1011460,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-16",
+    "valid_until": "2025-10-16",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0072"
+  },
+  {
+    "id": "JOB0073",
+    "title": "Mobile App Developer",
+    "company": {
+      "name": "Payne-Harmon",
+      "logo_url": "https://example.com/logos/payne-harmon.png",
+      "location": "North Cassie, India",
+      "industry": "Healthcare"
+    },
+    "description": "We are seeking a skilled Mobile App Developer to join our Healthcare team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Mobile App Developer or similar role",
+      "Strong knowledge of Deep Learning",
+      "Hands-on experience with Tableau",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Deep Learning",
+      "PowerBI",
+      "GCP",
+      "Rust",
+      "Node.js"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 862852,
+      "max": 1357867,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-05",
+    "valid_until": "2025-10-20",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0073"
+  },
+  {
+    "id": "JOB0074",
+    "title": "Cloud Architect",
+    "company": {
+      "name": "Green Inc",
+      "logo_url": "https://example.com/logos/greeninc.png",
+      "location": "Port Leonard, India",
+      "industry": "Cybersecurity"
+    },
+    "description": "We are seeking a skilled Cloud Architect to join our Cybersecurity team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Cloud Architect or similar role",
+      "Strong knowledge of Blockchain",
+      "Hands-on experience with Machine Learning",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Rust",
+      "Excel",
+      "Flutter",
+      "NLP",
+      "Kotlin"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1405801,
+      "max": 2190932,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-15",
+    "valid_until": "2025-10-05",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0074"
+  },
+  {
+    "id": "JOB0075",
+    "title": "Cloud Architect",
+    "company": {
+      "name": "Martin-Hood",
+      "logo_url": "https://example.com/logos/martin-hood.png",
+      "location": "South Cindy, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled Cloud Architect to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Cloud Architect or similar role",
+      "Strong knowledge of CI/CD",
+      "Hands-on experience with GraphQL",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "C++",
+      "Linux",
+      "Machine Learning",
+      "PowerBI",
+      "Python",
+      "Go"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1523993,
+      "max": 2446640,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-08",
+    "valid_until": "2025-10-10",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0075"
+  },
+  {
+    "id": "JOB0076",
+    "title": "Computer Vision Engineer",
+    "company": {
+      "name": "Hernandez-Martin",
+      "logo_url": "https://example.com/logos/hernandez-martin.png",
+      "location": "New Crystal, India",
+      "industry": "Cybersecurity"
+    },
+    "description": "We are seeking a skilled Computer Vision Engineer to join our Cybersecurity team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Computer Vision Engineer or similar role",
+      "Strong knowledge of TensorFlow",
+      "Hands-on experience with Python",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Azure",
+      "Go",
+      "REST API",
+      "CSS"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1538756,
+      "max": 2325236,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-05",
+    "valid_until": "2025-10-29",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0076"
+  },
+  {
+    "id": "JOB0077",
+    "title": "Data Analyst",
+    "company": {
+      "name": "Zavala PLC",
+      "logo_url": "https://example.com/logos/zavalaplc.png",
+      "location": "Pamelaland, India",
+      "industry": "Healthcare"
+    },
+    "description": "We are seeking a skilled Data Analyst to join our Healthcare team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Analyst or similar role",
+      "Strong knowledge of Machine Learning",
+      "Hands-on experience with JavaScript",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "React.js",
+      "PyTorch",
+      "Data Analysis",
+      "Java"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1111259,
+      "max": 1366616,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-15",
+    "valid_until": "2025-10-15",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0077"
+  },
+  {
+    "id": "JOB0078",
+    "title": "Full Stack Engineer",
+    "company": {
+      "name": "Mcmahon Group",
+      "logo_url": "https://example.com/logos/mcmahongroup.png",
+      "location": "Guzmantown, India",
+      "industry": "Software Development"
+    },
+    "description": "We are seeking a skilled Full Stack Engineer to join our Software Development team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Full Stack Engineer or similar role",
+      "Strong knowledge of GraphQL",
+      "Hands-on experience with Cloud Security",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Python",
+      "Go"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1734449,
+      "max": 2507723,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-17",
+    "valid_until": "2025-10-11",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0078"
+  },
+  {
+    "id": "JOB0079",
+    "title": "Data Engineer",
+    "company": {
+      "name": "Baker Inc",
+      "logo_url": "https://example.com/logos/bakerinc.png",
+      "location": "Fullerport, India",
+      "industry": "IT Services"
+    },
+    "description": "We are seeking a skilled Data Engineer to join our IT Services team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Engineer or similar role",
+      "Strong knowledge of SQL",
+      "Hands-on experience with JavaScript",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "C++",
+      "Linux",
+      "SQL",
+      "AWS",
+      "Flutter",
+      "REST API"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1239565,
+      "max": 2067536,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-08",
+    "valid_until": "2025-10-24",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0079"
+  },
+  {
+    "id": "JOB0080",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "Dalton-Fowler",
+      "logo_url": "https://example.com/logos/dalton-fowler.png",
+      "location": "Ritterside, India",
+      "industry": "Healthcare"
+    },
+    "description": "We are seeking a skilled DevOps Engineer to join our Healthcare team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a DevOps Engineer or similar role",
+      "Strong knowledge of PowerBI",
+      "Hands-on experience with Network Security",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "TensorFlow",
+      "CSS",
+      "Java",
+      "Tableau"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1215739,
+      "max": 1847114,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-10",
+    "valid_until": "2025-10-28",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0080"
+  },
+  {
+    "id": "JOB0081",
+    "title": "Blockchain Developer",
+    "company": {
+      "name": "Shelton, Walker and Lopez",
+      "logo_url": "https://example.com/logos/shelton,walkerandlopez.png",
+      "location": "Stewartmouth, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled Blockchain Developer to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Blockchain Developer or similar role",
+      "Strong knowledge of SQL",
+      "Hands-on experience with GCP",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Excel",
+      "Swift",
+      "GraphQL",
+      "CI/CD",
+      "PowerBI",
+      "Flutter"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 607472,
+      "max": 1185386,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-18",
+    "valid_until": "2025-10-23",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0081"
+  },
+  {
+    "id": "JOB0082",
+    "title": "NLP Engineer",
+    "company": {
+      "name": "Smith, Chandler and Anderson",
+      "logo_url": "https://example.com/logos/smith,chandlerandanderson.png",
+      "location": "Port Brandonton, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled NLP Engineer to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a NLP Engineer or similar role",
+      "Strong knowledge of Kotlin",
+      "Hands-on experience with Penetration Testing",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Data Analysis",
+      "GCP",
+      "CSS",
+      "AWS",
+      "Python",
+      "CI/CD",
+      "PowerBI"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1026044,
+      "max": 1890160,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-05",
+    "valid_until": "2025-10-26",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0082"
+  },
+  {
+    "id": "JOB0083",
+    "title": "AI Researcher",
+    "company": {
+      "name": "Oconnor, Wright and Jones",
+      "logo_url": "https://example.com/logos/oconnor,wrightandjones.png",
+      "location": "North John, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled AI Researcher to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a AI Researcher or similar role",
+      "Strong knowledge of Network Security",
+      "Hands-on experience with Tableau",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Rust",
+      "Cloud Security",
+      "TensorFlow",
+      "CSS"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1183589,
+      "max": 1685444,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-14",
+    "valid_until": "2025-10-22",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0083"
+  },
+  {
+    "id": "JOB0084",
+    "title": "Computer Vision Engineer",
+    "company": {
+      "name": "Salazar, Doyle and Parker",
+      "logo_url": "https://example.com/logos/salazar,doyleandparker.png",
+      "location": "North Matthewstad, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled Computer Vision Engineer to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Computer Vision Engineer or similar role",
+      "Strong knowledge of CI/CD",
+      "Hands-on experience with Blockchain",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Tableau",
+      "Python",
+      "TensorFlow",
+      "Java",
+      "Cloud Security",
+      "PowerBI"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 798757,
+      "max": 1396854,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-11",
+    "valid_until": "2025-10-26",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0084"
+  },
+  {
+    "id": "JOB0085",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "Mcdonald, Klein and Patel",
+      "logo_url": "https://example.com/logos/mcdonald,kleinandpatel.png",
+      "location": "Tammychester, India",
+      "industry": "IT Services"
+    },
+    "description": "We are seeking a skilled DevOps Engineer to join our IT Services team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a DevOps Engineer or similar role",
+      "Strong knowledge of Linux",
+      "Hands-on experience with Docker",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Rust",
+      "TensorFlow",
+      "REST API",
+      "Java",
+      "Azure",
+      "Penetration Testing"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1653612,
+      "max": 2327640,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-09",
+    "valid_until": "2025-10-16",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0085"
+  },
+  {
+    "id": "JOB0086",
+    "title": "Backend Developer",
+    "company": {
+      "name": "Larson, Lester and Reilly",
+      "logo_url": "https://example.com/logos/larson,lesterandreilly.png",
+      "location": "Port Nathanmouth, India",
+      "industry": "Software Development"
+    },
+    "description": "We are seeking a skilled Backend Developer to join our Software Development team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Backend Developer or similar role",
+      "Strong knowledge of HTML",
+      "Hands-on experience with Excel",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "TypeScript",
+      "Go",
+      "PyTorch",
+      "GCP",
+      "PowerBI",
+      "Data Analysis",
+      "Excel"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 934996,
+      "max": 1159543,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-10",
+    "valid_until": "2025-10-13",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0086"
+  },
+  {
+    "id": "JOB0087",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "Henderson-Salazar",
+      "logo_url": "https://example.com/logos/henderson-salazar.png",
+      "location": "Rodriguezborough, India",
+      "industry": "Cybersecurity"
+    },
+    "description": "We are seeking a skilled DevOps Engineer to join our Cybersecurity team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a DevOps Engineer or similar role",
+      "Strong knowledge of Node.js",
+      "Hands-on experience with Machine Learning",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "C++",
+      "SQL",
+      "CSS",
+      "Deep Learning",
+      "CI/CD"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1455164,
+      "max": 2227911,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-13",
+    "valid_until": "2025-10-13",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0087"
+  },
+  {
+    "id": "JOB0088",
+    "title": "Full Stack Engineer",
+    "company": {
+      "name": "Edwards, Scott and Galloway",
+      "logo_url": "https://example.com/logos/edwards,scottandgalloway.png",
+      "location": "Port Cynthiaside, India",
+      "industry": "Cybersecurity"
+    },
+    "description": "We are seeking a skilled Full Stack Engineer to join our Cybersecurity team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Full Stack Engineer or similar role",
+      "Strong knowledge of CSS",
+      "Hands-on experience with React.js",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Network Security",
+      "TensorFlow",
+      "Linux",
+      "AWS"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1445711,
+      "max": 2276429,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-10",
+    "valid_until": "2025-10-14",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0088"
+  },
+  {
+    "id": "JOB0089",
+    "title": "QA Automation Engineer",
+    "company": {
+      "name": "Holden-Jones",
+      "logo_url": "https://example.com/logos/holden-jones.png",
+      "location": "Port Dana, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled QA Automation Engineer to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a QA Automation Engineer or similar role",
+      "Strong knowledge of REST API",
+      "Hands-on experience with React.js",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Azure",
+      "Machine Learning",
+      "NLP",
+      "REST API"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1428641,
+      "max": 1878964,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-17",
+    "valid_until": "2025-10-28",
+    "source": "Indeed",
+    "apply_url": "https://indeed.com/job/apply/job0089"
+  },
+  {
+    "id": "JOB0090",
+    "title": "Cloud Architect",
+    "company": {
+      "name": "King-Navarro",
+      "logo_url": "https://example.com/logos/king-navarro.png",
+      "location": "Stephaniechester, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled Cloud Architect to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Cloud Architect or similar role",
+      "Strong knowledge of Rust",
+      "Hands-on experience with CI/CD",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Cloud Security",
+      "REST API",
+      "Swift",
+      "CI/CD",
+      "Data Analysis",
+      "Go",
+      "Network Security"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 682068,
+      "max": 1179872,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-04",
+    "valid_until": "2025-10-25",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0090"
+  },
+  {
+    "id": "JOB0091",
+    "title": "Business Intelligence Analyst",
+    "company": {
+      "name": "Moore, Sherman and Scott",
+      "logo_url": "https://example.com/logos/moore,shermanandscott.png",
+      "location": "South Matthew, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled Business Intelligence Analyst to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Business Intelligence Analyst or similar role",
+      "Strong knowledge of Linux",
+      "Hands-on experience with Excel",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "NLP",
+      "AWS",
+      "React.js",
+      "Blockchain"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1132740,
+      "max": 2048589,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-07",
+    "valid_until": "2025-10-24",
+    "source": "LinkedIn",
+    "apply_url": "https://linkedin.com/job/apply/job0091"
+  },
+  {
+    "id": "JOB0092",
+    "title": "Backend Developer",
+    "company": {
+      "name": "Moore PLC",
+      "logo_url": "https://example.com/logos/mooreplc.png",
+      "location": "Woodmouth, India",
+      "industry": "IT Services"
+    },
+    "description": "We are seeking a skilled Backend Developer to join our IT Services team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Backend Developer or similar role",
+      "Strong knowledge of Node.js",
+      "Hands-on experience with PyTorch",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Linux",
+      "GCP",
+      "PowerBI",
+      "Java"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1747030,
+      "max": 2378232,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-04",
+    "valid_until": "2025-10-16",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0092"
+  },
+  {
+    "id": "JOB0093",
+    "title": "Business Intelligence Analyst",
+    "company": {
+      "name": "Zamora, Ramos and Lindsey",
+      "logo_url": "https://example.com/logos/zamora,ramosandlindsey.png",
+      "location": "North Tiffanyland, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled Business Intelligence Analyst to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Business Intelligence Analyst or similar role",
+      "Strong knowledge of Cloud Security",
+      "Hands-on experience with Rust",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Network Security",
+      "Linux",
+      "HTML",
+      "TypeScript"
+    ],
+    "employment_type": "Part-time",
+    "salary_range": {
+      "min": 1613063,
+      "max": 2561545,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-11",
+    "valid_until": "2025-10-03",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0093"
+  },
+  {
+    "id": "JOB0094",
+    "title": "Cybersecurity Specialist",
+    "company": {
+      "name": "Turner, Jones and Atkinson",
+      "logo_url": "https://example.com/logos/turner,jonesandatkinson.png",
+      "location": "Port Sheri, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled Cybersecurity Specialist to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Cybersecurity Specialist or similar role",
+      "Strong knowledge of Rust",
+      "Hands-on experience with Network Security",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Data Analysis",
+      "Java",
+      "REST API",
+      "Flutter"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1275612,
+      "max": 1870816,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-05",
+    "valid_until": "2025-10-20",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0094"
+  },
+  {
+    "id": "JOB0095",
+    "title": "Business Intelligence Analyst",
+    "company": {
+      "name": "Payne Group",
+      "logo_url": "https://example.com/logos/paynegroup.png",
+      "location": "North Lisa, India",
+      "industry": "E-commerce"
+    },
+    "description": "We are seeking a skilled Business Intelligence Analyst to join our E-commerce team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Business Intelligence Analyst or similar role",
+      "Strong knowledge of GCP",
+      "Hands-on experience with Go",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "Excel",
+      "CI/CD",
+      "Swift",
+      "AWS"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 853634,
+      "max": 1076022,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-04",
+    "valid_until": "2025-10-16",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0095"
+  },
+  {
+    "id": "JOB0096",
+    "title": "Business Intelligence Analyst",
+    "company": {
+      "name": "Andrade, Proctor and Macias",
+      "logo_url": "https://example.com/logos/andrade,proctorandmacias.png",
+      "location": "Michelleport, India",
+      "industry": "FinTech"
+    },
+    "description": "We are seeking a skilled Business Intelligence Analyst to join our FinTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Business Intelligence Analyst or similar role",
+      "Strong knowledge of AWS",
+      "Hands-on experience with Cloud Security",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Tableau",
+      "Node.js",
+      "NLP",
+      "TensorFlow",
+      "Machine Learning",
+      "Linux"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 835800,
+      "max": 1137241,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-15",
+    "valid_until": "2025-10-25",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0096"
+  },
+  {
+    "id": "JOB0097",
+    "title": "Data Analyst",
+    "company": {
+      "name": "Hale-Christian",
+      "logo_url": "https://example.com/logos/hale-christian.png",
+      "location": "Bellfort, India",
+      "industry": "Software Development"
+    },
+    "description": "We are seeking a skilled Data Analyst to join our Software Development team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Analyst or similar role",
+      "Strong knowledge of Cloud Security",
+      "Hands-on experience with TensorFlow",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "JavaScript",
+      "Cloud Security",
+      "NLP",
+      "HTML",
+      "Node.js",
+      "GraphQL"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 1179555,
+      "max": 1740533,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-11",
+    "valid_until": "2025-10-26",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0097"
+  },
+  {
+    "id": "JOB0098",
+    "title": "Data Analyst",
+    "company": {
+      "name": "Lin LLC",
+      "logo_url": "https://example.com/logos/linllc.png",
+      "location": "Robinsonland, India",
+      "industry": "Healthcare"
+    },
+    "description": "We are seeking a skilled Data Analyst to join our Healthcare team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Data Analyst or similar role",
+      "Strong knowledge of Cloud Security",
+      "Hands-on experience with Network Security",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Kotlin",
+      "GraphQL",
+      "Tableau",
+      "CSS",
+      "SQL"
+    ],
+    "employment_type": "Internship",
+    "salary_range": {
+      "min": 1084140,
+      "max": 1564681,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-12",
+    "valid_until": "2025-10-22",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0098"
+  },
+  {
+    "id": "JOB0099",
+    "title": "Blockchain Developer",
+    "company": {
+      "name": "Smith-Schultz",
+      "logo_url": "https://example.com/logos/smith-schultz.png",
+      "location": "Woodburgh, India",
+      "industry": "EdTech"
+    },
+    "description": "We are seeking a skilled Blockchain Developer to join our EdTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Blockchain Developer or similar role",
+      "Strong knowledge of Network Security",
+      "Hands-on experience with AWS",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "JavaScript",
+      "Tableau",
+      "React.js",
+      "Deep Learning",
+      "SQL",
+      "Swift"
+    ],
+    "employment_type": "Full-time",
+    "salary_range": {
+      "min": 1384509,
+      "max": 2122550,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-05",
+    "valid_until": "2025-10-22",
+    "source": "Unstop",
+    "apply_url": "https://unstop.com/job/apply/job0099"
+  },
+  {
+    "id": "JOB0100",
+    "title": "Business Intelligence Analyst",
+    "company": {
+      "name": "Lewis-French",
+      "logo_url": "https://example.com/logos/lewis-french.png",
+      "location": "Davidborough, India",
+      "industry": "EdTech"
+    },
+    "description": "We are seeking a skilled Business Intelligence Analyst to join our EdTech team. The candidate should be passionate about technology, problem-solving, and building scalable solutions. You will collaborate with cross-functional teams to design, develop, and deploy high-quality applications.",
+    "requirements": [
+      "Proven experience as a Business Intelligence Analyst or similar role",
+      "Strong knowledge of Kotlin",
+      "Hands-on experience with Python",
+      "Excellent problem-solving and communication skills",
+      "Ability to work collaboratively in agile teams"
+    ],
+    "skills": [
+      "Blockchain",
+      "Node.js",
+      "Network Security",
+      "React.js",
+      "Data Analysis",
+      "Flutter"
+    ],
+    "employment_type": "Contract",
+    "salary_range": {
+      "min": 1247475,
+      "max": 2185542,
+      "currency": "INR"
+    },
+    "date_posted": "2025-09-17",
+    "valid_until": "2025-10-08",
+    "source": "Naukri",
+    "apply_url": "https://naukri.com/job/apply/job0100"
+  }
+]
